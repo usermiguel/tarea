@@ -94,5 +94,7 @@ else:
 
 "Me falto esto"
 
-"pruebas"
+"pruebas" 
+
+"esto tambien "
 
