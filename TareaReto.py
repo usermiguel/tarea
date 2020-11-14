@@ -92,3 +92,5 @@ if (100>num>0):
 else:
     print ("Ingresar un numero entre 0 y 100")
 
+"Me falto esto"
+
