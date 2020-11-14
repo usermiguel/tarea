@@ -90,7 +90,9 @@ num=int(input("Ingresa un número entre (0 y 100) -->"))
 if (100>num>0):
     ConvertirNumeroALetra(num)
 else:
-    print ("Ingresar un numero entre 0 y 100")
+    print ("Ingresar un numero entre 0 y 100sss")
 
 "Me falto esto"
+
+"pruebas"
 
